@@ -1,4 +1,2 @@
 hei
-pull
-yes
-ffffff
+ingen feil her :)
